@@ -27,3 +27,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Add file_1 and file_2"
+git status
